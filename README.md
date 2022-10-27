@@ -3,7 +3,7 @@
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Robotics and Programming. 
 - 💞️ i know Python,C++,Linux,C,PHP,Java,HTML/CSS.
-- 📫 How to reach me Instagram: wouter_12_ or Email: wouterww8112@gmail.com
+- 📫 How to reach me Instagram: wouter_12_ or Email: wouterww8112@gmail.com or check out my blog: https://www.geek-trends.com/
 
 <!---
 WouterW007/WouterW007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
