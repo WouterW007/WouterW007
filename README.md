@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WouterW007 (Wouter Wessels)
-- I am a highschool student from South Africa in Grey College  With the dream of stuyding computer science and working in the tech field.
+- I am a highschool student from South Africa in Grey College  With the dream of studying computer science and working in the tech field.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Robotics and Programming. 
 - 💞️ i know Python,C++,Linux,C,PHP,Java,HTML/CSS.
