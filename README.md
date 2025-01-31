@@ -2,7 +2,7 @@
 - I am a highschool student from South Africa in Grey College  With the dream of studying computer science and working in the tech field.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Robotics and Programming. 
-- 💞️ i know Python,C++,Linux,C
+- 💞️ i know Python,C++,Linux,C,Dart/Flutter,Rust 
 - 📫 How to reach me Instagram: wouter_12_ or Email: wouterww8112@gmail.com 
 
 <!---
